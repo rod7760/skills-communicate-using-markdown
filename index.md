@@ -20,4 +20,6 @@ def find_fish(fishes, name, tank) -> Fish:
 fishes = [Fish(name="Dwarf Gourami", tank=1), Fish(name="Dwarf Gourami", tank=2)]
 print(find_fish(fishes, "Dwarf Gourami", 1))
 ```
-
+## Fish Tasks
+- [ ] Make a list of all my fish and tanks
+- [ ] Add pictures of all fish
